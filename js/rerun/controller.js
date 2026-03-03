@@ -4,6 +4,7 @@ ngApp.controller('myValidatorController', function($scope) {
 	$scope.betaBanner = betaBanner;
 	$scope.labelStaging = labelStaging;
 	$scope.serverToken = serverToken;
+	$scope.captchaEnabled = captchaEnabled;
 
 
 	// Show/Hide captcha
